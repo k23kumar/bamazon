@@ -1,1 +1,1 @@
-# bamazon
+In this node application, customers and managers are able to execute a variety of commands. By accessing a MYSQL databse, customers can view and order products and managers are able to view products and add inventory and new products. The interaction in the node by either customers or managers updates and creates changes in the MYSQL database. Please take a look at the screenshots in this file for more information. 
